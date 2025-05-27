@@ -7,7 +7,7 @@
 
 - 🔭 I'm currently working on: [DiffSeg](https://github.com/google/diffseg) (real-time optimization) & [WaveChain](https://www.wave-chain.com)
 
-- 👯 I'm looking to collaborate on: [Conjure Oxide](https://github.com/conjure-cp/conjure-oxide)
+- 👯 I'm looking to collaborate on: **any** interesting project :)
 
 - 🤝 I'm looking for product validation with [unhatched.ai](https://unhatched.ai/)
 
