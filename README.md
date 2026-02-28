@@ -3,17 +3,17 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Pedro Gronda Garrigues</h1>
-<h3 align="center">A compsci & maths student passionate about machine learning</h3>
+<h3 align="center">A compsci & maths student passionate about computer vision</h3>
 
-- 🔭 I'm currently working on: [DiffSeg](https://github.com/google/diffseg) (real-time optimization) & [WaveChain](https://www.wave-chain.com)
+- 🔭 I'm currently working on: [WaveChain](https://www.wave-chain.com) & [ARTwarp-py](https://github.com/dolphin-acoustics-vip/artwarp-py)
 
 - 👯 I'm looking to collaborate on: **any** interesting project :)
 
 - 🤝 I'm looking for product validation with [unhatched.ai](https://unhatched.ai/)
 
-- 👨‍💻 All of my links are available at [bento.me](https://bento.me/pedroggbm)
+- 👨‍💻 All of my links are available at [own.page](https://own.page/pedroggbm)
 
-- 🌱 I'm currently learning: **AWS Cloud Practitioner**
+- 🌱 I'm currently learning: Dynamic Time Warping
 
 - 💬 Ask me about **computer vision & medical imaging**
 
