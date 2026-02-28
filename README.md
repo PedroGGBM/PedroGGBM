@@ -4,14 +4,14 @@
 
 <h1 align="center">Hello! I'm Pedro Gronda Garrigues</h1>
 <h3 align="center">A compsci & maths student passionate about computer vision</h3>
-
+```
                   .___                          ___.            
 ______   ____   __| _/______  ____   ____   ____\_ |__   _____  
 \____ \_/ __ \ / __ |\_  __ \/  _ \ / ___\ / ___\| __ \ /     \ 
 |  |_> >  ___// /_/ | |  | \(  <_> ) /_/  > /_/  > \_\ \  Y Y  \
 |   __/ \___  >____ | |__|   \____/\___  /\___  /|___  /__|_|  /
 |__|        \/     \/             /_____//_____/     \/      \/ 
-
+```
 - 🔭 I'm currently working on: [WaveChain](https://www.wave-chain.com) & [ARTwarp-py](https://github.com/dolphin-acoustics-vip/artwarp-py)
 
 - 👯 I'm looking to collaborate on: **any** interesting project :)
