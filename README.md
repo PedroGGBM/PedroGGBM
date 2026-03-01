@@ -58,3 +58,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### Stats
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PedroGGBM&theme=dark" alt="PedroGGBM" /></p>
