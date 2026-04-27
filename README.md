@@ -5,13 +5,13 @@
 <h1 align="center">Hi 👋, I'm Pedro Gronda Garrigues</h1>
 <h3 align="center">A compsci & maths student passionate about machine learning</h3>
 
-- 🔭 I'm currently working on: [DiffSeg](https://github.com/google/diffseg) (real-time optimization) & [WaveChain](https://www.wave-chain.com)
+- 🔭 I'm currently working on: [artwarp-py](https://github.com/dolphin-acoustics-vip/artwarp-py) & [WaveChain](https://www.wave-chain.com)
 
-- 👯 I'm looking to collaborate on: [Conjure Oxide](https://github.com/conjure-cp/conjure-oxide)
+- 👯 I'm looking to collaborate on: [IBKR Trading Bot](https://github.com/PedroGGBM/ibkr-tws-trading-bot)
 
 - 👨‍💻 All of my links are available at [bento.me](https://bento.me/pedroggbm)
 
-- 🌱 I'm currently learning: **AWS Cloud Practitioner**
+- 🌱 I'm currently learning: **Dynamic Time Warping**
 
 - 💬 Ask me about **computer vision & medical imaging**
 
